@@ -13,7 +13,7 @@ namespace _07._3
             Console.InputEncoding = Encoding.Unicode;
             Console.OutputEncoding = Encoding.Unicode;
 
-            Console.Write("ВВедіть текст : ");
+            Console.Write("Введіть текст : ");
             string text = Console.ReadLine();
 
             foreach (char line in text)
